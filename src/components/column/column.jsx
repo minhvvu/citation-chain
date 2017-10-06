@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './column.css';
 
-import GroupRows from './group-rows';
+import GroupRows from '../row/group-rows';
 
 export default class Column extends Component {
 
