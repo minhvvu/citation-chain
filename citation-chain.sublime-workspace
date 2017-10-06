@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newColumn"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"small",
+				"smallest.by.rows"
+			],
+			[
+				"find.",
+				"find.kNN"
+			],
+			[
+				"sop",
+				"stopifnot\t{base}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/R/R.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Clean and Build"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Compile C++ Attributes"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Build Source"
+				],
+				[
+					"Packages/R-Box/support/R Package.sublime-build",
+					"Build Binary"
+				]
+			],
+			[
+				"Packages/R/R.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "me",
+		"selected_items":
+		[
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: graph"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vmvu/Workspace/pets/citation-chain",
+		"/home/vmvu/Workspace/pets/citation-chain/src"
+	],
+	"file_history":
+	[
+		"/home/vmvu/Workspace/pets/citation-chain/yarn.lock",
+		"/home/vmvu/Workspace/pets/citation-chain/src/row.jsx",
+		"/home/vmvu/Workspace/pets/citation-chain/src/group-rows.jsx",
+		"/home/vmvu/Workspace/pets/citation-chain/src/row.css",
+		"/home/vmvu/Workspace/pets/citation-chain/src/App.js",
+		"/home/vmvu/Workspace/pets/citation-chain/src/column.jsx",
+		"/home/vmvu/Workspace/pets/citation-chain/src/column.css",
+		"/home/vmvu/Workspace/pets/citation-chain/src/index.css",
+		"/home/vmvu/Workspace/pets/citation-chain/src/App.css",
+		"/home/vmvu/Workspace/pets/hello_JqueryUI.html",
+		"/home/vmvu/Workspace/pets/citation-chain/hello_JqueryUI.html",
+		"/home/vmvu/Workspace/pets/citation-chain/src/components/test-tree.jsx",
+		"/home/vmvu/Workspace/papers/reviewDR01/sota01.bib",
+		"/home/vmvu/Workspace/papers/reviewDR01/DRwithConstraints_part1.tex",
+		"/home/vmvu/Workspace/papers/reviewDR01/DRwithConstraints_part1_2.tex",
+		"/home/vmvu/Workspace/papers/reviewDR01/reviewDR01.sublime-project",
+		"/home/vmvu/Workspace/tut-r/lle-tut-r.r",
+		"/home/vmvu/Workspace/papers/reviewDR01/DRwithConstraints.tex",
+		"/home/vmvu/Workspace/papers/reviewDR01/test_pgm.tex",
+		"/home/vmvu/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/home/vmvu/Workspace/papers/reviewDR01/.gitignore",
+		"/home/vmvu/.config/i3/config",
+		"/etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla",
+		"/var/log/kern.log",
+		"/var/log/faillog",
+		"/var/log/apport.log",
+		"/var/log/lastlog",
+		"/var/log/Xorg.0.log",
+		"/lib/systemd/system/sendsigs.service",
+		"/home/vmvu/shutdown.sh",
+		"/etc/default/grub",
+		"/home/vmvu/.taskrc",
+		"/home/vmvu/.vimperatorrc"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rowData",
+			"rows",
+			"myTreeData",
+			"XGiv",
+			"myMatrix",
+			"global",
+			"Think Globally, Fit Locally:Supervised Learning of Low Dimensional Manifolds",
+			"embedding space",
+			"embedding",
+			"LLE",
+			"roweis2000LLE",
+			"\\myMatrix",
+			"guidedMDS",
+			"equation",
+			"\",\"",
+			"clear",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"XGvis",
+			"",
+			"\n*",
+			"\n*\n",
+			"*\n",
+			"*/n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.469387755102,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 103.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 380.0
+	},
+	"pinned_build_system": "",
+	"project": "citation-chain.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/IDR/idr-app/idr-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
