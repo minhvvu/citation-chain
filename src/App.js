@@ -3,6 +3,8 @@ import './App.css';
 
 import Column from './components/column/column';
 
+import FilterablePaperList from './presentations/filterable-paper-list';
+
 class App extends Component {
 
   constructor() {
@@ -69,6 +71,9 @@ class App extends Component {
 
     return (
       <div>
+
+        <FilterablePaperList />
+
         <div className="all-columns">
           {columns}
         </div>
